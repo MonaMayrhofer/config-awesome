@@ -1,7 +1,8 @@
 [submodule "lain"]
 	path = lain
-	url = git://github.com/lcpz/lain.git
-
+	url = git@github.com:lcpz/lain.git
+	branch = master
 [submodule "freedesktop"]
-	path = freedesktop
-	url = git://github.com/lcpz/awesome-freedesktop.git
+	path = awesome-freedesktop
+	url = git@github.com:lcpz/awesome-freedesktop.git
+	branch = master
